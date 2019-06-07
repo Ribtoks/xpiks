@@ -1,0 +1,39 @@
+{
+    "overwrite": {
+        "v": true
+    },
+    "donateCampaign1": {
+        "v": false
+    },
+    "donateCampaign1Stage2": {
+        "v": false
+    },
+    "progressiveSuggestionPreviews": {
+        "v": true
+    },
+    "directExport": {
+        "v": true
+    },
+    "qualityVideoPreviews": {
+        "v": true,
+        "t": 30
+    },
+    "autoImport": {
+        "v": true
+    },
+    "iStockSuggestion": {
+        "v": true
+    },
+    "updateEnabled": {
+        "v": false
+    },
+    "keywordsDragDropEnabled": {
+        "v": true
+    },
+    "telemetryEnabled": {
+        "v": true
+    },
+    "vectorIOEnabled": {
+        "v": true
+    }
+}
