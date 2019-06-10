@@ -35,5 +35,8 @@
     },
     "vectorIOEnabled": {
         "v": true
+    },
+    "legacyBackupsCleanupEnabled": {
+        "v": true
     }
 }
