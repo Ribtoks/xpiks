@@ -35,5 +35,11 @@
     },
     "vectorIOEnabled": {
         "v": true
+    },
+    "xmpPatchingEnabled": {
+        "v": true,
+        "wt": 10,
+        "mt": 25,
+        "lt": 100
     }
 }
