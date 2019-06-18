@@ -15,8 +15,7 @@
         "v": true
     },
     "qualityVideoPreviews": {
-        "v": true,
-        "t": 30
+        "v": true
     },
     "autoImport": {
         "v": true
@@ -37,6 +36,9 @@
         "v": true
     },
     "legacyBackupsCleanupEnabled": {
+        "v": true
+    },
+    "xmpPatchingEnabled": {
         "v": true
     }
 }
