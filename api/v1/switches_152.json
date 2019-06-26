@@ -26,9 +26,9 @@
     },
     "updateEnabled": {
         "v": true,
-        "wt": 2,
-        "mt": 7,
-        "lt": 30
+        "wt": 5,
+        "mt": 15,
+        "lt": 60
     },
     "keywordsDragDropEnabled": {
         "v": true
