@@ -33,7 +33,8 @@
             "id": 6,
             "name": "Dreamstime",
             "ftp": "ftp://upload.dreamstime.com",
-            "vectors_dir": "additional"
+            "vectors_dir": "additional",
+            "videos_dir": "video"
         },
         {
             "id": 7,
