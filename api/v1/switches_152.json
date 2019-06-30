@@ -25,10 +25,7 @@
         "v": true
     },
     "updateEnabled": {
-        "v": true,
-        "wt": 25,
-        "mt": 50,
-        "lt": 100
+        "v": false
     },
     "keywordsDragDropEnabled": {
         "v": true
