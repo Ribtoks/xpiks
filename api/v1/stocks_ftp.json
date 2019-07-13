@@ -5,7 +5,9 @@
             "id": 1,
             "name": "Shutterstock",
             "ftp": "ftp.shutterstock.com",
-            "skip_previews": true
+            "skip_previews": true,
+            "upload_buffer": 2097152,
+            "retries": 3
         },
         {
             "id": 2,
@@ -17,30 +19,40 @@
             "id": 3,
             "name": "Depositphotos",
             "ftp": "ftp.depositphotos.com",
-            "zip_vector": true
+            "zip_vector": true,
+            "upload_buffer": 524288,
+            "retries": 4
         },
         {
             "id": 4,
             "name": "123rf",
-            "ftp": "ftp.123rf.com"
+            "ftp": "ftp.123rf.com",
+            "upload_buffer": 524288,
+            "retries": 4
         },
         {
             "id": 5,
             "name": "BigStock",
-            "ftp": "ftp.bigstockphoto.com"
+            "ftp": "ftp.bigstockphoto.com",
+            "upload_buffer": 1048576,
+            "retries": 3
         },
         {
             "id": 6,
             "name": "Dreamstime",
             "ftp": "ftp://upload.dreamstime.com",
             "vectors_dir": "additional",
-            "videos_dir": "video"
+            "videos_dir": "video",
+            "upload_buffer": 524288,
+            "retries": 4
         },
         {
             "id": 7,
             "name": "CanStock",
             "ftp": "ftp.canstockphoto.com",
-            "zip_vector": true
+            "zip_vector": true,
+            "upload_buffer": 524288,
+            "retries": 4
         },
         {
             "id": 8,
@@ -48,14 +60,18 @@
             "ftp": "ftp.skyfish.com",
             "images_dir": "stock/images",
             "vectors_dir": "stock/vector",
-            "videos_dir": "stock/video"
+            "videos_dir": "stock/video",
+            "upload_buffer": 524288,
+            "retries": 3
         },
         {
             "id": 9,
             "name": "Alamy",
             "ftp": "ftp://upload.alamy.com",
             "images_dir": "Stock",
-            "vectors_dir": "Vector"
+            "vectors_dir": "Vector",
+            "upload_buffer": 524288,
+            "retries": 3
         },
         {
             "id": 10,
@@ -70,18 +86,31 @@
         {
             "id": 12,
             "name": "Mostphotos",
-            "ftp": "ftp.mostphotos.com"
+            "ftp": "ftp.mostphotos.com",
+            "upload_buffer": 524288,
+            "retries": 4
         },
         {
             "id": 13,
             "name": "Crestock",
-            "ftp": "ftp.crestock.com"
+            "ftp": "ftp.crestock.com",
+            "upload_buffer": 524288,
+            "retries": 4
         },
         {
             "id": 14,
             "name": "Adobe Stock",
             "ftp": "ftp.contributor.adobestock.com",
-            "zip_vector": true
+            "zip_vector": true,
+            "upload_buffer": 2097152,
+            "retries": 3
+        },
+        {
+            "id": 15,
+            "name": "Pond5",
+            "ftp": "ftp.pond5.com",
+            "upload_buffer": 524288,
+            "retries": 4
         }
     ]
 }
