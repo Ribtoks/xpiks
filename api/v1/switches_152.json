@@ -25,7 +25,8 @@
         "v": true
     },
     "updateEnabled": {
-        "v": true
+        "v": true,
+        "wt": 0
     },
     "keywordsDragDropEnabled": {
         "v": true
