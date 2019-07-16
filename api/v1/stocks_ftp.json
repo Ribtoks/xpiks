@@ -6,7 +6,7 @@
             "name": "Shutterstock",
             "ftp": "ftp.shutterstock.com",
             "skip_previews": true,
-            "upload_buffer": 2097152,
+            "upload_buffer": 524288,
             "retries": 3
         },
         {
@@ -27,7 +27,7 @@
             "id": 4,
             "name": "123rf",
             "ftp": "ftp.123rf.com",
-            "upload_buffer": 524288,
+            "upload_buffer": 262144,
             "retries": 4
         },
         {
@@ -43,7 +43,7 @@
             "ftp": "ftp://upload.dreamstime.com",
             "vectors_dir": "additional",
             "videos_dir": "video",
-            "upload_buffer": 524288,
+            "upload_buffer": 262144,
             "retries": 4
         },
         {
@@ -51,7 +51,7 @@
             "name": "CanStock",
             "ftp": "ftp.canstockphoto.com",
             "zip_vector": true,
-            "upload_buffer": 524288,
+            "upload_buffer": 262144,
             "retries": 4
         },
         {
@@ -61,7 +61,7 @@
             "images_dir": "stock/images",
             "vectors_dir": "stock/vector",
             "videos_dir": "stock/video",
-            "upload_buffer": 524288,
+            "upload_buffer": 262144,
             "retries": 3
         },
         {
@@ -87,14 +87,14 @@
             "id": 12,
             "name": "Mostphotos",
             "ftp": "ftp.mostphotos.com",
-            "upload_buffer": 524288,
+            "upload_buffer": 262144,
             "retries": 4
         },
         {
             "id": 13,
             "name": "Crestock",
             "ftp": "ftp.crestock.com",
-            "upload_buffer": 524288,
+            "upload_buffer": 262144,
             "retries": 4
         },
         {
@@ -102,7 +102,7 @@
             "name": "Adobe Stock",
             "ftp": "ftp.contributor.adobestock.com",
             "zip_vector": true,
-            "upload_buffer": 2097152,
+            "upload_buffer": 524288,
             "retries": 3
         },
         {
