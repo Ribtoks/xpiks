@@ -1,0 +1,51 @@
+{
+    "plans": [
+        {
+            "issystem": true,
+            "name": "Shutterstock Video *",
+            "properties": [
+                {
+                    "columnName": "Filename",
+                    "propertyName": "UploadFilename",
+                    "propertyType": 7
+                },
+                {
+                    "columnName": "Description",
+                    "propertyName": "Description",
+                    "propertyType": 3
+                },
+                {
+                    "columnName": "Categories",
+                    "propertyName": "Empty",
+                    "propertyType": 0
+                },
+                {
+                    "columnName": "Editorial",
+                    "propertyName": "Empty",
+                    "propertyType": 0
+                }
+            ]
+        },
+        {
+            "issystem": true,
+            "name": "Pond5 Video *",
+            "properties": [
+                {
+                    "columnName": "ClipId",
+                    "propertyName": "Empty",
+                    "propertyType": 0
+                },
+                {
+                    "columnName": "OriginalFilename",
+                    "propertyName": "UploadFilename",
+                    "propertyType": 7
+                },
+                {
+                    "columnName": "Keywords",
+                    "propertyName": "Keywords",
+                    "propertyType": 4
+                }
+            ]
+        }
+    ]
+}
