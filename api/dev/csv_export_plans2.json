@@ -2,6 +2,7 @@
     "plans": [
         {
             "issystem": true,
+            "__xpks_override__": true,
             "name": "Shutterstock Video *",
             "properties": [
                 {
@@ -28,6 +29,7 @@
         },
         {
             "issystem": true,
+            "__xpks_override__": true,
             "name": "Pond5 Video *",
             "properties": [
                 {
