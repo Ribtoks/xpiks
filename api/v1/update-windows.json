@@ -1,7 +1,7 @@
 {
     "major_version": 1,
     "minor_version": 5,
-    "fix_version": 3,
-    "checksum": "0580d2464afca00dbbeb9d8e93f4eab59c632a7a",
-    "update_link": "https://github.com/ribtoks/xpiks/releases/download/v1.5.3/Xpiks-v1.5.3.zip"
+    "fix_version": 4,
+    "checksum": "50adb6e036247995865be90922c457cf36ba63c3",
+    "update_link": "https://github.com/ribtoks/xpiks/releases/download/v1.5.4/Xpiks-v1.5.4.zip"
 }
