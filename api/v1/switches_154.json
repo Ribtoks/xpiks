@@ -28,7 +28,7 @@
         "v": false
     },
     "hotfixUpdateEnabled": {
-        "v": false
+        "v": true
     },
     "keywordsDragDropEnabled": {
         "v": true
