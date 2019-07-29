@@ -2,7 +2,7 @@
     "major_version": 1,
     "minor_version": 5,
     "fix_version": 4,
-    "hotfix_version": 1,
-    "checksum": "c29af05ef170629570a02d1c9880140f3c04b3c9",
-    "update_link": "https://github.com/ribtoks/xpiks/releases/download/v1.5.4.1/Xpiks-v1.5.4-x86_64.AppImage"
+    "hotfix_version": 2,
+    "checksum": "8b0853866838ee9610f4349bfc04cf5fa0719857",
+    "update_link": "https://github.com/ribtoks/xpiks/releases/download/v1.5.4.2/Xpiks-v1.5.4-x86_64.AppImage"
 }
