@@ -37,7 +37,7 @@
         "v": true
     },
     "telemetryEnabled": {
-        "v": true
+        "v": false
     },
     "vectorIOEnabled": {
         "v": true
