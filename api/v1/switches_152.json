@@ -31,6 +31,6 @@
         "v": true
     },
     "telemetryEnabled": {
-        "v": true
+        "v": false
     }
 }
