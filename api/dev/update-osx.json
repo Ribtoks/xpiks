@@ -2,6 +2,7 @@
     "major_version": 1,
     "minor_version": 3,
     "fix_version": 4,
+    "hotfix_version": 0,
     "checksum": "2f75914166b04e1d1aa195e7d963f324c699c7ac",
     "update_link": "https://github.com/Ribtoks/xpiks/releases/download/v1.3.4/xpiks-qt-v1.3.4.dmg"
 }
