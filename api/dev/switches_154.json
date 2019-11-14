@@ -1,0 +1,56 @@
+{
+    "overwrite": {
+        "v": true
+    },
+    "donateCampaign1": {
+        "v": false
+    },
+    "donateCampaign1Stage2": {
+        "v": false
+    },
+    "progressiveSuggestionPreviews": {
+        "v": true
+    },
+    "directExport": {
+        "v": true
+    },
+    "qualityVideoPreviews": {
+        "v": true
+    },
+    "autoImport": {
+        "v": true
+    },
+    "iStockSuggestion": {
+        "v": false
+    },
+    "updateEnabled": {
+        "v": false
+    },
+    "hotfixUpdateEnabled": {
+        "v": true,
+        "wt": 0,
+        "mt": 50,
+        "lt": 50
+    },
+    "keywordsDragDropEnabled": {
+        "v": true
+    },
+    "telemetryEnabled": {
+        "v": true
+    },
+    "vectorIOEnabled": {
+        "v": true
+    },
+    "xmpPatchingEnabled": {
+        "v": true
+    },
+    "xmpAddMissingEnabled": {
+        "v": true
+    },
+    "uploadBufferSizeEnabled": {
+        "v": false
+    },
+    "updateAutoInstall": {
+        "v": true
+    }
+}
