@@ -28,10 +28,7 @@
         "v": false
     },
     "hotfixUpdateEnabled": {
-        "v": true,
-        "wt": 0,
-        "mt": 50,
-        "lt": 50
+        "v": false
     },
     "keywordsDragDropEnabled": {
         "v": true
