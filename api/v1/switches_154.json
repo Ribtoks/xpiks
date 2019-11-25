@@ -26,9 +26,9 @@
     },
     "updateEnabled": {
         "v": true,
-        "wt": 3,
-        "mt": 7,
-        "lt": 15
+        "wt": 7,
+        "mt": 14,
+        "lt": 25
     },
     "hotfixUpdateEnabled": {
         "v": false
