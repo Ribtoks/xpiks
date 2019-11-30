@@ -26,8 +26,8 @@
     },
     "updateEnabled": {
         "v": true,
-        "wt": 45,
-        "mt": 75,
+        "wt": 65,
+        "mt": 85,
         "lt": 100
     },
     "hotfixUpdateEnabled": {
