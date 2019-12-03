@@ -18,3 +18,4 @@ installer/packages/xpiks/data/
 *.qm
 UiTestsStubPlugin/
 *.qmlc
+*.swp

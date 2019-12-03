@@ -31,7 +31,10 @@
         "lt": 100
     },
     "hotfixUpdateEnabled": {
-        "v": false
+        "v": true,
+        "wt": 0,
+        "mt": 10,
+        "lt": 0
     },
     "keywordsDragDropEnabled": {
         "v": true
