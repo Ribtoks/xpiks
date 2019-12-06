@@ -26,14 +26,14 @@
     },
     "updateEnabled": {
         "v": true,
-        "wt": 65,
-        "mt": 85,
+        "wt": 85,
+        "mt": 100,
         "lt": 100
     },
     "hotfixUpdateEnabled": {
         "v": true,
         "wt": 0,
-        "mt": 30,
+        "mt": 60,
         "lt": 0
     },
     "keywordsDragDropEnabled": {
