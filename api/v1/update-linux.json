@@ -4,5 +4,5 @@
     "fix_version": 5,
     "hotfix_version": 7,
     "checksum": "f0fcebd750de127739610d95c12af3d602d10a5d",
-    "update_link": "https://github.com/ribtoks/xpiks/releases/download/v1.5.5.7/Xpiks-v1.5.5-x86_64.AppImage"
+    "update_link": "https://xpiks-releases.s3.amazonaws.com/v1.5.5.7/Xpiks-v1.5.5-x86_64.AppImage"
 }
