@@ -3,10 +3,10 @@
         "v": true
     },
     "donateCampaign1": {
-        "v": true
+        "v": false
     },
     "donateCampaign1Stage2": {
-        "v": true
+        "v": false
     },
     "progressiveSuggestionPreviews": {
         "v": true
