@@ -2,7 +2,7 @@
     "major_version": 1,
     "minor_version": 5,
     "fix_version": 5,
-    "hotfix_version": 7,
-    "checksum": "f0fcebd750de127739610d95c12af3d602d10a5d",
-    "update_link": "https://xpiks-releases.s3.amazonaws.com/v1.5.5.7/Xpiks-v1.5.5-x86_64.AppImage"
+    "hotfix_version": 8,
+    "checksum": "ed94820bacfb20dfeb7b5e7c13d6d6e6822f7299",
+    "update_link": "https://f000.backblazeb2.com/file/xpiks-releases/v1.5.5.8/Xpiks-v1.5.5-x86_64.AppImage"
 }
