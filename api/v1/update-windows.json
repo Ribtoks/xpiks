@@ -1,8 +1,8 @@
 {
     "major_version": 1,
-    "minor_version": 5,
-    "fix_version": 5,
-    "hotfix_version": 8,
-    "checksum": "d9dc39e2ff793d5eebd53f500871765b588c6580",
-    "update_link": "https://f000.backblazeb2.com/file/xpiks-releases/v1.5.5.8/Xpiks-v1.5.5.zip"
+  "minor_version": 7,
+  "fix_version": 1,
+  "hotfix_version": 8,
+  "checksum": "c12df52b8fa44eabd970685960317b6a31ca1a45",
+  "update_link": "https://github.com/Xpiks/app/releases/download/v1.7.1.8/Xpiks-v1.7.1.zip"
 }
